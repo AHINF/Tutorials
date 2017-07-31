@@ -1,4 +1,4 @@
-package javaTutorials.net;
+package javaTutorial.net;
 import java.awt.BorderLayout;
 
 import javax.swing.JButton;
