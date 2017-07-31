@@ -1,4 +1,4 @@
-package javaTutorials.net;
+package javaTutorial.net;
 
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
