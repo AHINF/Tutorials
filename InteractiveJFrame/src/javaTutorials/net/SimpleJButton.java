@@ -1,4 +1,4 @@
-package javaTutorials.net;
+package javaTutorial.net;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
